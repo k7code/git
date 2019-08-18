@@ -10,4 +10,6 @@ Este es una parte de la historia de un colaborador en git
 
 Master 1
 
+Master 2
+
 Esta linea fue ingresada por un contribuidor desde internet por medio de un fork en la rama principal
